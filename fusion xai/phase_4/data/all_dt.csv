@@ -1,0 +1,12 @@
+Feature_No,Feature,LIME_Score,SHAP_Score
+1,A.BoosterPreventSpread,0.5641843465975491,0.15
+2,Education,0.12844704341546867,0.14
+3,SideEffectsAffectView,-0.07637585508447413,-0.07
+4,P.EffectivenessVsRisk,0.07673525256330402,0.04
+5,B.BoosterMoreSideEffects,0.03664374281266904,0.04
+6,CovidPatientCare,0,-0.02
+7,S.AgreeMOHRecommendation,-0.09916764675122541,-0.02
+8,AdditionalVaccines,-0.05642688672024101,-0.02
+9,P.WorkDemand,-0.0421506401791978,-0.01
+10,C.EvidenceInsufficient,-0.0961845311008467,0
+11,Race,-0.028214789540202782,0

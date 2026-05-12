@@ -1,0 +1,15 @@
+Feature_No,Feature,LIME_Score,SHAP_Score
+1,B.PreferNaturalImmunity,-0.06095651763267928,-0.05
+2,SideEffectsAffectView,-0.039111687334773396,-0.03
+3,P.WorkDemand,0.03143944757526166,0.03
+4,AdditionalVaccines,0,-0.01
+5,P.ChipBelief,0,-0.01
+6,C.BoosterNotNeeded,-0.04546920495155609,-0.01
+7,P.LongTermSideEffects,0,-0.01
+8,Income,0,-0.02
+9,A.BoosterPreventSpread,0.044179129970422934,0
+10,Location,-0.04633075204030402,0
+11,B.PublicRiskWithoutBooster,0.03272368828538047,0
+12,A.RecommendingBooster,0.03009890651822111,0
+13,C.EvidenceInsufficient,-0.028972062421712262,0
+14,S.PreventNewVariant,0.027968879839670027,0
