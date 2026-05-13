@@ -31,7 +31,7 @@ The fusion methods produced more stable rankings compared to individual explaina
 
 <h2>Dataset and Privacy</h2>
 <p>
-The original raw preprocessing data received is not included due to privacy concerns. The files in this repository contain processed, encoded, normalised, aggregated, or feature-selected datasets used for model training and explainability analysis.
+The original raw preprocessing data received by me is not included due to privacy concerns. The files in this repository contain processed, encoded, normalised, aggregated, or feature-selected datasets used for model training and explainability analysis.
 </p>
 
 <h2>Repository Structure</h2>
